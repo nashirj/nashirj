@@ -1,18 +1,26 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working:
-  - on robotics control system design using `Matlab`, `Simulink`, and `Simscape` as an intern at NASA's [Kennedy Space Center](https://www.nasa.gov/centers/kennedy/home/index.html) under the direction of [@dupuism](https://github.com/dupuism)
-  - on data processing/machine learning on LiDAR point cloud data using `Python`, `laspy` and `Tensorflow` as a part-time intern at NASA's [Goddard Space Flight Center](https://www.nasa.gov/goddard) under the direction of James Mackinnon
-  - on a [ride-sharing iPhone application for college students](https://github.com/tanjyy/ridesio) using `Swift` with [@tahaafzal5](https://github.com/tahaafzal5) and [@yaosarayin](https://github.com/yaosarayin)
+- 🔨 I’m currently working:
+  - as an intern at [@google](https://github.com/google)
+  - on a web app called [climbr](https://github.com/nashirj/climbr) that stores routes for the climbing wall I built in my backyard during quarantine
+  - a paper about a mass estimation model created for a [NASA Kennedy Space Center](https://www.nasa.gov/centers/kennedy/home/index.html) lunar excavation robot
 
-- 🌱 I’m currently learning about :
-  - backend development using Flask
+- 🌱 I’m currently learning about:
+  - distributed systems by reading [Designing Data Intensive Applications](http://dataintensive.net)
   - machine learning through [Andrew Ng's coursera class](https://www.coursera.org/learn/machine-learning)
 
 - 👯 I’m looking to collaborate on projects that are:
   - for social good
   - an opportunity to learn
   - technically interesting
+
+- 📆 Past projects I'm proud of:
+  - a data processing/machine learning pipeline for LiDAR point cloud data built as a part-time intern at NASA's [Goddard Space Flight Center](https://www.nasa.gov/goddard) under the direction of James Mackinnon
+  - a [ride-sharing iPhone application for college students](https://github.com/tanjyy/ridesio) using `Swift` with [@tahaafzal5](https://github.com/tahaafzal5) and [@yaosarayin](https://github.com/yaosarayin)
+
+- 📚 Publications:
+  - [Mass Inferencing Model Creation And Deployment To Lunar Excavation Robot, RASSOR](https://ntrs.nasa.gov/citations/20210011226)
+  - [Machine Learning for Dynamical Modeling of a Flexible Inverted Pendulum System](https://ntrs.nasa.gov/citations/20205004568)
 
 - 📫 How to reach me:
   - via email: nashirbass@gmail.com
