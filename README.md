@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔨 I’m currently:
-  - a student at [UCF](https://www.ucf.edu/)
+- ⚡ I’m currently:
+  - a student living in Orlando, FL and attending [UCF](https://www.ucf.edu/)
   - working on a paper about a mass estimation model created for a [NASA Kennedy Space Center](https://www.nasa.gov/centers/kennedy/home/index.html) lunar excavation robot
 
 - 🔨 My past work experience includes internships at:
@@ -9,8 +9,7 @@
   - [@nasa](https://github.com/nasa), where I worked on software development, robotics, machine learning, sensing, controls, and more
 
 - 🌱 I’m currently learning about:
-  - distributed systems by reading [Designing Data Intensive Applications](http://dataintensive.net)
-  - machine learning through [Andrew Ng's coursera class](https://www.coursera.org/learn/machine-learning)
+  - computer vision through reading [Dr. Mubarak Shah's book](https://www.cse.unr.edu/~bebis/CS485/Handouts/ShahBook.pdf)
 
 - 👯 I’m looking to collaborate on projects that are:
   - for social good
