@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-- 🔨 I’m currently working:
-  - as an intern at [@google](https://github.com/google)
-  - on a web app called [climbr](https://github.com/nashirj/climbr) that stores routes for the climbing wall I built in my backyard during quarantine
-  - a paper about a mass estimation model created for a [NASA Kennedy Space Center](https://www.nasa.gov/centers/kennedy/home/index.html) lunar excavation robot
+- 🔨 I’m currently:
+  - a student at [UCF](https://www.ucf.edu/)
+  - working on a paper about a mass estimation model created for a [NASA Kennedy Space Center](https://www.nasa.gov/centers/kennedy/home/index.html) lunar excavation robot
+
+- 🔨 My past work experience includes internships at:
+  - [@google](https://github.com/google), where I worked on a team that supports image/video search
+  - [@nasa](https://github.com/nasa), where I worked on software development, robotics, machine learning, sensing, controls, and more
 
 - 🌱 I’m currently learning about:
   - distributed systems by reading [Designing Data Intensive Applications](http://dataintensive.net)
@@ -17,6 +20,7 @@
 - 📆 Past projects I'm proud of:
   - a data processing/machine learning pipeline for LiDAR point cloud data built as a part-time intern at NASA's [Goddard Space Flight Center](https://www.nasa.gov/goddard) under the direction of James Mackinnon
   - a [ride-sharing iPhone application for college students](https://github.com/tanjyy/ridesio) using `Swift` with [@tahaafzal5](https://github.com/tahaafzal5) and [@yaosarayin](https://github.com/yaosarayin)
+  - a web app called [climbr](https://github.com/nashirj/climbr) that stores routes for the climbing wall I built in my backyard during quarantine
 
 - 📚 Publications:
   - [Mass Inferencing Model Creation And Deployment To Lunar Excavation Robot, RASSOR](https://ntrs.nasa.gov/citations/20210011226)
