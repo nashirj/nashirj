@@ -2,7 +2,7 @@
 
 - ⚡ I’m currently:
   - a student living in Orlando, FL and attending [UCF](https://www.ucf.edu/)
-  - working on a paper about a mass estimation model created for a [NASA Kennedy Space Center](https://www.nasa.gov/centers/kennedy/home/index.html) lunar excavation robot
+  - working on building an [automatic chessboard with a custom chess AI](https://github.com/ucfai/knightros-gambit)
 
 - 🔨 My past work experience includes internships at:
   - [@google](https://github.com/google), where I worked on a team that supports image/video search
@@ -22,7 +22,8 @@
   - a web app called [climbr](https://github.com/nashirj/climbr) that stores routes for the climbing wall I built in my backyard during quarantine
 
 - 📚 Publications:
-  - [Mass Inferencing Model Creation And Deployment To Lunar Excavation Robot, RASSOR](https://ntrs.nasa.gov/citations/20210011226)
+  - [Mass Inferencing Model Creation And Deployment To Lunar Excavation Robot, RASSOR](https://arc.aiaa.org/doi/abs/10.2514/6.2021-4216)
+  - [Towards Autonomous Lunar Resource Excavation via Reinforcement Learning](https://arc.aiaa.org/doi/abs/10.2514/6.2021-4217)
   - [Machine Learning for Dynamical Modeling of a Flexible Inverted Pendulum System](https://ntrs.nasa.gov/citations/20205004568)
 
 - 📫 How to reach me:
