@@ -9,7 +9,7 @@
   - [@nasa](https://github.com/nasa), where I worked on software development, robotics, machine learning, sensing, controls, and more
 
 - 🌱 I’m currently learning about:
-  - computer vision through reading [Dr. Mubarak Shah's book](https://www.cse.unr.edu/~bebis/CS485/Handouts/ShahBook.pdf)
+  - reinforcement learning, through reading [Sutton and Barto's book](http://www.incompleteideas.net/book/the-book-2nd.html) and following along with [DeepMind's](https://deepmind.com/) [RL Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 
 - 👯 I’m looking to collaborate on projects that are:
   - for social good
