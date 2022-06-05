@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - ⚡ I’m currently:
+  - interning at Google NYC, working on a backend Maps team
   - a student living in Orlando, FL and attending [UCF](https://www.ucf.edu/)
   - working on building an [automatic chessboard with a custom chess AI](https://github.com/ucfai/knightros-gambit)
 
