@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - ⚡ I’m currently:
-  - looking for full-time SWE/robotics roles with a start date after August 2023 (preferably in NYC!)
   - a student living in Orlando, FL and attending [UCF](https://www.ucf.edu/)
   - working on an undergraduate thesis that explores the use of vision and deep learning to learn how to extract structure from sheet music
   - working on building an [automatic chessboard with a custom chess AI](https://github.com/ucfai/knightros-gambit)
