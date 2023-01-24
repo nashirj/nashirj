@@ -32,4 +32,6 @@
   - via [LinkedIn](https://www.linkedin.com/in/nashir-janmohamed/)
   - via [Instagram](https://www.instagram.com/nashirj/)
 
+![](https://komarev.com/ghpvc/?username=nashirj&label=Profile+views+since+2023)
+
 [![Nashir's github stats](https://github-readme-stats.vercel.app/api?username=nashirj&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/nashirj/github-readme-stats)
