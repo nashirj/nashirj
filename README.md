@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - ⚡ I’m currently:
-  - a student living in Orlando, FL and attending [UCF](https://www.ucf.edu/)
-  - working on an undergraduate thesis that explores the use of vision and deep learning to learn how to extract structure from sheet music
+  - enjoying the gap between graduating from [UCF](https://www.ucf.edu/) and starting full-time work as a SWE at [Google](https://github.com/google) in NYC
   - working on building an [automatic chessboard with a custom chess AI](https://github.com/ucfai/knightros-gambit)
 
 - 🔨 My past work experience includes internships at:
@@ -13,7 +12,7 @@
   - reinforcement learning, through reading [Sutton and Barto's book](http://www.incompleteideas.net/book/the-book-2nd.html) and following along with [DeepMind's](https://deepmind.com/) [RL Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 
 - 👯 I’m looking to collaborate on projects that are:
-  - for social good
+  - for social good (I'm most passionate about addressing problems related to climate change)
   - an opportunity to learn
   - technically interesting
 
