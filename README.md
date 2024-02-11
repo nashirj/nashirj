@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- ⚡ I’m currently:
-  - enjoying the gap between graduating from [UCF](https://www.ucf.edu/) and starting full-time work as a SWE at [Google](https://github.com/google) in NYC
-  - working on building an [automatic chessboard with a custom chess AI](https://github.com/ucfai/knightros-gambit)
+- ⚡ I’m currently working:
+  - as a SWE in NYC
 
 - 🔨 My past work experience includes internships at:
   - [@google](https://github.com/google), where I worked on image/video search and backend Maps
@@ -17,6 +16,7 @@
   - technically interesting
 
 - 📆 Past projects I'm proud of:
+  - an [automatic chessboard with a custom chess AI](https://github.com/ucfai/knightros-gambit)
   - a data processing/machine learning pipeline for LiDAR point cloud data built as a part-time intern at NASA's [Goddard Space Flight Center](https://www.nasa.gov/goddard) under the direction of James Mackinnon
   - a [ride-sharing iPhone application for college students](https://github.com/tanjyy/ridesio) using `Swift` with [@tahaafzal5](https://github.com/tahaafzal5) and [@yaosarayin](https://github.com/yaosarayin)
   - a web app called [climbr](https://github.com/nashirj/climbr) that stores routes for the climbing wall I built in my backyard during quarantine
